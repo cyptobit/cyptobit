@@ -7,8 +7,7 @@
 
 ### Oracles have mainly been developed for Ethereum, price feeds, and Defi. Costs of running these architectures use gas and incur costs that are not practical, limiting the scope of what oracles can achieve. There is no legally binding agreement between consumers and providers of data. Consumers have to compromise between security, reliability, authenticity, and data delivery speed. There are barely any standards with regard to oracle safety and interoperability because the market has been monopolized with one vision from one selfish player.
 
-### There is no transparency and traceability of data provenance. Users cannot choose the provenance of their data and how it is treated. There is no democratization 
-of the data management process, and conflict resolution is tainted with poor voting technology. Incentives are not convincing people to participate.
+### There is no transparency and traceability of data provenance. Users cannot choose the provenance of their data and how it is treated. There is no democratization of the data management process, and conflict resolution is tainted with poor voting technology. Incentives are not convincing people to participate.
 
 ### An oracle system cannot function without a strong DAO and conflict resolution mechanism. This is why Kylin is pushing toward the democratization of the data management process with robust dispute resolution mechanisms and a voting system, which allows for assessing and strengthening the validity of a vote.
 
