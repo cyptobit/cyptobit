@@ -9,7 +9,7 @@
 
 ### There is no transparency and traceability of data provenance. Users cannot choose the provenance of their data and how it is treated. There is no democratization of the data management process, and conflict resolution is tainted with poor voting technology. Incentives are not convincing people to participate.
 
-### An oracle system cannot function without a strong DAO and conflict resolution mechanism. This is why Kylin is pushing toward the democratization of the data management process with robust dispute resolution mechanisms and a voting system, which allows for assessing and strengthening the validity of a vote.
+### An oracle system cannot function without a strong DAO and conflict resolution mechanism. This is why Cyptobit is pushing toward the democratization of the data management process with robust dispute resolution mechanisms and a voting system, which allows for assessing and strengthening the validity of a vote.
 
 ### There is no way to solve the oracle problem but giving a configurable framework for democratically creating and managing oracle system entities allows the consumer to evaluate and mitigate the risks while acting in full knowledge of the situation. A service level agreement (SLA) between the providers and consumers of data on the transparency and traceability of data provenance, specifying where the data came from, can offload some of the responsibility from the non-perfect performance of the oracle systems to the consumer. 
 
